@@ -3,4 +3,6 @@ JUDUL AJA
 -List 1
   //amigo
  //amigos
+ //enak amigos
+ ----->gak amigos
 -List 2
