@@ -2,4 +2,5 @@ JUDUL AJA
 
 -List 1
   //amigo
+ //amigos
 -List 2
